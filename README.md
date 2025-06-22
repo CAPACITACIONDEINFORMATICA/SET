@@ -1,5 +1,5 @@
 
-< html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -124,10 +124,9 @@ a los participantes en el uso adecuado de herramientas informáticas para mejora
 <br>
 
 <marquee> <img src="C:\Users\teodo\OneDrive\Pictures\FORMACI-N--PROFESIONAL--B-SICA-2021.jpg" alt="Imagen desde la web" width="400">
-
 </marquee>
-    <br>
-    <br>
+  <br>
+  <br>
 
 
 
