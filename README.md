@@ -56,7 +56,8 @@ bachillerato, basado en desempeños terminales, el enfoque educativo basado en e
 <br>
 <br>
 <p>La capacitación en informática se refiere a la instrucción en el uso y aplicación de tecnologías de la información y la comunicación (TIC). Esta capacitación abarca desde el manejo básico de sistemas operativos y aplicaciones de oficina hasta áreas más especializadas como programación, diseño web y redes. En esencia, busca dotar a los individuos de las habilidades necesarias para desenvolverse con eficiencia en un entorno cada vez más digital
-a los participantes en el uso adecuado de herramientas informáticas para mejorar su desempeño académico y laboral.</p>
+a los participantes en el uso adecuado de herramientas informáticas para mejorar su desempeño académico y laboral. 
+</p>
 <br>
 <br>
  <header>
@@ -147,10 +148,9 @@ a los participantes en el uso adecuado de herramientas informáticas para mejora
  <li> Técnicas de medición del trabajo </li>
 </ul>
 
-
-
 <a href=https://www.facebook.com/ieicomputacion> 100% seguro  </A>
 <br>
+
 <A href=https://www.dgcft.sems.gob.mx/buscador_cecati/plantel/125> calidad en la educacion </A>
 <br>
 
